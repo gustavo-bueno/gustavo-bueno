@@ -5,7 +5,7 @@
   <h6>Buscando sempre aprender e evoluir com novas experiências.</h6>
 </div>
 
- <div>
+ <div align="center">
   <a href="https://github.com/gustavo-bueno">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gustavo-bueno&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-bueno&layout=compact&langs_count=7&theme=gotham"/>
